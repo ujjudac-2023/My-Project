@@ -53,6 +53,7 @@ From here user can decide whether that particular movie is from his interests or
 
 
 **Technology Proposed **
+
 The technologies used in creation of this Website are
 
 HTML
