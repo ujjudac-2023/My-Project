@@ -1,4 +1,4 @@
-# Major-Project
+# CLIP :  Cinema Library Information Project
 
 **Abstract**
 
